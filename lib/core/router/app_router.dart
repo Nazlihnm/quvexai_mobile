@@ -1,4 +1,3 @@
-// 1. Gerekli kütüphaneleri ve ekranları içe aktarıyoruz
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:quvexai_mobile/features/auth/presentation/screens/login_screen.dart';
